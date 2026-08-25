@@ -1,6 +1,6 @@
 # Image-Speech Recognition System for Impaired Users
 
-An assistive AI system designed to enhance accessibility for visually and hearing-impaired individuals. This project integrates image recognition and speech processing to interpret surroundings and provide meaningful audio or visual feedback.
+An assistive AI system designed to enhance accessibility for visually and hearing-impaired individuals. This project integrates image recognition and speech processing to interpret surroundings and provide meaningful audio or visual feedback 3.
 
 ## Features
 
